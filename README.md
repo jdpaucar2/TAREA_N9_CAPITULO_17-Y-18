@@ -36,6 +36,8 @@
 Los filtros pasivos también pueden ser diseñados para tener una banda de paso específica, lo que permite el paso de una banda estrecha de frecuencias y atenúa las frecuencias fuera de esa banda. Estos filtros se utilizan en aplicaciones como la separación de canales de radio y televisión.
 
 En general, los filtros pasivos son ampliamente utilizados en una variedad de aplicaciones de electrónica, ya que son relativamente simples, económicos y eficaces en la eliminación de interferencias y ruido de las señales eléctricas.
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. RESOLUCION DE LOS EJERCICIOS**
 
