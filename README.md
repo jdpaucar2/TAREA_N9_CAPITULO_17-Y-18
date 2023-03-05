@@ -18,16 +18,24 @@
 
 **1.1  OBJETIVO GENERAL**
 
-
+* Determinar lOS conceptos alrededor de los CIRCUITOS RC que se encuentran enm el campo de la electronica como componentes de corriente y voltaje que permiten la emicion y almacenamiento de corriente para transmitir pulsacines o crear campos electricos que desarrollan en si mismos la electronica moderna.
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
+* Completar los conocimientos sobre circuitos usadndo los componentes revisdados en las unidades previas
+
+* Entender el funcionamiento de los CIRCUITOS RC en la electronica moderna.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/116772918/222982645-12b35215-5ba0-4799-95d0-69ccccc8702f.png)
 
+![image](https://user-images.githubusercontent.com/116772918/222983008-a5615da4-b13f-4370-a677-6ffaa54f8d93.png)
 
+Los filtros pasivos también pueden ser diseñados para tener una banda de paso específica, lo que permite el paso de una banda estrecha de frecuencias y atenúa las frecuencias fuera de esa banda. Estos filtros se utilizan en aplicaciones como la separación de canales de radio y televisión.
+
+En general, los filtros pasivos son ampliamente utilizados en una variedad de aplicaciones de electrónica, ya que son relativamente simples, económicos y eficaces en la eliminación de interferencias y ruido de las señales eléctricas.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. RESOLUCION DE LOS EJERCICIOS**
 
